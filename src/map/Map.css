@@ -1,0 +1,8 @@
+@import "@arcgis/core/assets/esri/themes/light/main.css";
+
+.theMap {
+  height: 39vh;
+  width: 39vh;
+  margin: 0 auto;
+}
+

@@ -1,0 +1,15 @@
+.maps {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+  flex-wrap: wrap;
+}
+
+.inputs {
+  display: flex;
+  justify-content:center;
+}
+
+.form-control {
+  margin: 10px;
+}

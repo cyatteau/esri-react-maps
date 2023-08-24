@@ -15,8 +15,8 @@ export const MAPS_INFO = [
     _id: "4",
     basemapStyle: "arcgis-nova",
   },
-  {
-    _id: "5",
-    basemapStyle: "arcgis-midcentury",
-  },
+  // {
+  //   _id: "5",
+  //   basemapStyle: "arcgis-midcentury",
+  // },
 ];

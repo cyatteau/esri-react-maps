@@ -14,11 +14,10 @@ export interface MapProps {
 
 export function Map(props: MapProps) {
   const { aMap, longitude, latitude, zoom } = props;
-  // const [language, setLanguage] = useState<Language>("ar");
+  // const [language, setLanguage] = useState<Language>("ar"); <== Saving for future support
   const theMap = React.useRef<HTMLInputElement>(null);
 
-  esriConfig.apiKey =
-    "YOUR_API_KEY";
+  esriConfig.apiKey = "YOUR_API_KEY";
 
   useEffect(() => {
     const view = new MapView({

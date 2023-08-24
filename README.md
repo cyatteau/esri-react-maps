@@ -9,6 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demos
 ### Esri JS SDK Maps - Different Basemaps (without titles)
+![ezgif com-crop](https://github.com/cyatteau/esri-react-maps/assets/112517097/5dad4442-111d-4e8b-bf56-e41449a850f0)
 
 ## Required Dependencies
 - `npm i @arcgis/core`

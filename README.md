@@ -1,5 +1,5 @@
 # Esri Maps - a React Application
-Explore how to use Esri's services in Esri's JS SDK maps, Esri Leaflet maps, and MapLibre maps.
+Explore how to use Esri's services in Esri's JS SDK maps.
 
 ## About this Project
 This project was built using Esri's Services, APIs, SDKs, and Calcite components.
